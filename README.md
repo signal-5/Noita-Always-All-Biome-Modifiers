@@ -1,6 +1,7 @@
 # All Biome Modifiers (Noita Mod)
 
 Forces all or selected biome modifiers to be activated simultaneously across biomes for extra challenge!
+
 Default setting for extra spicy.
 
 ## Features
